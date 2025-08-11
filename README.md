@@ -22,7 +22,7 @@ With the rapid rise of web-based technologies, correspondingly, there is an unpr
 
 Demonstration of a Forbidden Access (403 Error) Response Triggered During SQL Injection Attempt on a Test Web Application
 
-![Image](https://github.com/user-attachments/assets/1eef0f38-cc47-4f14-98a3-4d83bf2c6f98)
+
 
 Web Application Firewall (WAF) Configuration Interface Showing Web Application Setup and Source Identity Settings in a Vulnerability Testing Environment
 

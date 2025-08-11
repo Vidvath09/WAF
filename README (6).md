@@ -25,6 +25,16 @@ Demonstration of a Forbidden Access (403 Error) Response Triggered During SQL In
 
 ![Image](https://github.com/user-attachments/assets/1eef0f38-cc47-4f14-98a3-4d83bf2c6f98)
 
+Web Application Firewall (WAF) Configuration Interface Showing Web Application Setup and Source Identity Settings in a Vulnerability Testing Environment
+
+![Image](https://github.com/user-attachments/assets/7e513ed7-eb0d-4441-9d53-3bdc16d10a43)
+
+Configuration of NGINX Agent Deployment Using Open-AppSec for Web Application Security in the Vulnerable Application Testbed.
+
+![Image](https://github.com/user-attachments/assets/9d40fa17-611d-4258-9720-10f2db08b2c4)
+
+Open-AppSec Dashboard Showing Active Linux Embedded Agent Deployment for NGINX Platform in the Vulnerable Application Environment.
+
 
 
 

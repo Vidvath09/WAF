@@ -18,7 +18,7 @@ With the rapid rise of web-based technologies, correspondingly, there is an unpr
 
 ## Screenshots
 ![image alt](https://github.com/Vidvath09/WAF/blob/f39790f7eea1d638f1b6d5cc81398c7c138b50f0/pic9.png)
-![Image](https://github.com/user-attachments/assets/3598d927-0060-47da-994c-6c9c61916701)
+
 
 Demonstration of a Forbidden Access (403 Error) Response Triggered During SQL Injection Attempt on a Test Web Application
 

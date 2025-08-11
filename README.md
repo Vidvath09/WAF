@@ -30,7 +30,7 @@ Web Application Firewall (WAF) Configuration Interface Showing Web Application S
 
 Configuration of NGINX Agent Deployment Using Open-AppSec for Web Application Security in the Vulnerable Application Testbed.
 
-![Image](https://github.com/user-attachments/assets/9d40fa17-611d-4258-9720-10f2db08b2c4)
+![Image](https://github.com/Vidvath09/WAF/blob/d17f50a6a877cfc2d996d7cb151c94dc2b910028/pic11.png)
 
 Open-AppSec Dashboard Showing Active Linux Embedded Agent Deployment for NGINX Platform in the Vulnerable Application Environment.
 
